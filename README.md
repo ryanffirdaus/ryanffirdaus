@@ -1,40 +1,34 @@
-# Hi, I'm Ryan 👋
+<h1 align="center">Hi 👋, I'm Ryan</h1>
+<h3 align="center">A backend-focused developer</h3>
 
-Backend Developer specializing in inventory systems and monitoring solutions.
-Currently focused on **Go (Golang)** and **IoT** architecture.
+- 🌱 I’m currently learning **Go (Golang), IoT Architecture, and System Automation**
 
----
+- 🔭 I’m currently working on **Inventory Management Systems & IoT-Integrated Web Monitoring**
 
-### 🛠 Tech Stack
+- 📫 How to reach me **ryanfaatih.firdaus@gmail.com**
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| **Frameworks** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ryanffirdaus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryanffirdaus" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools Used:</h3>
+<p align="left"> 
 
-### 🚀 Key Projects
+<h4 align="left">Backend & Web Technologies:</h4>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-| Project | Description |
-| :--- | :--- |
-| **Inventory Management System** | Comprehensive stock management implementing **EOQ**, **ROP**, and **Safety Stock** algorithms for warehouse optimization. Built with Laravel & MySQL. |
-| **IoT AC Monitoring** | Real-time air conditioning control and monitoring system using **MQTT** protocol and **Go** for high-performance data handling. |
-| **Web GIS Application** | Spatial data visualization tool designed for mapping and geographic analysis. |
+<h4 align="left">Database, IoT & DevOps:</h4>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://mqtt.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mqtt/3C1D6B" alt="mqtt" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
----
+</p>
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanffirdaus&show_icons=true&theme=graywhite&hide_border=true" height="130" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanffirdaus&layout=compact&theme=graywhite&hide_border=true" height="130" alt="languages graph" />
-</div>
-
----
-
-### 📫 Contact
-* [**LinkedIn**](https://www.linkedin.com/in/ryanffirdaus/)
-* [**Email**](mailto:ryanfaatih.firdaus@gmail.com)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanffirdaus&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ryanffirdaus" /></p>
