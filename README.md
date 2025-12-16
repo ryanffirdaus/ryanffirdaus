@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go (Golang), IoT Architecture, and System Automation**
 
-- 🔭 I’m currently working on **IoT-Integrated Web Monitoring**
+- 🔭 I’m currently working on an **IoT-Integrated Web Monitoring**
 
 - 📫 How to reach me **ryanfaatih.firdaus@gmail.com**
 
