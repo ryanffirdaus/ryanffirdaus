@@ -31,4 +31,12 @@
 
 </p>
 
-<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=ryanffirdaus](https://ryanffirdaus.github.io)&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ryanffirdaus" /></p>
+<p>
+  <a href="https://ryanffirdaus.github.io" target="_blank">
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanffirdaus&show_icons=true&theme=dracula&locale=en&layout=compact"
+      alt="ryanffirdaus"
+    />
+  </a>
+</p>
