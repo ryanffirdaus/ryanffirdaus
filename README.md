@@ -32,11 +32,7 @@
 </p>
 
 <p>
-  <a href="https://ryanffirdaus.github.io" target="_blank">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=ryanffirdaus&show_icons=true&theme=dracula&locale=en&layout=compact"
-      alt="ryanffirdaus"
-    />
+  <a href="https://ryanffirdaus.github.io" target="_blank" style="text-decoration:none;">
+    <strong style="margin-left:6px;">Visit My Portfolio</strong>
   </a>
 </p>
